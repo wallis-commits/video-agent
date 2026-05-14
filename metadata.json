@@ -1,0 +1,7 @@
+{
+  "name": "video Agent",
+  "description": "移动优先的创意 Agent 界面，具有沉浸式卡片和流畅的工作流。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
